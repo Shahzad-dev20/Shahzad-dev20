@@ -302,25 +302,6 @@ Applied statistical and analytical methods to financial datasets in a simulated 
 
 <div align="center">
 
-## ⟡ Achievements
-
-| Recognition | Details |
-|:---|:---|
-| 🏆 **1st Place — Department System Design Award** | Recognized at SZABIST Islamabad for excellence in system design |
-| 🎓 **Forage Virtual Experience — J.P. Morgan** | Completed Quantitative Research program |
-| 🎓 **Forage Virtual Experience — Vista** | Completed AI in Action program |
-| 💼 **Deloitte Data Analytics Internship** | Delivered measurable stakeholder impact (+20% decision speed) |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ## ⟡ Certifications
 
 **LinkedIn Learning**
@@ -362,7 +343,7 @@ Applied statistical and analytical methods to financial datasets in a simulated 
 
 ## ⟡ GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shahzad-dev20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shahzad-dev20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzad-dev20&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad-dev20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
@@ -377,37 +358,9 @@ Applied statistical and analytical methods to financial datasets in a simulated 
 
 <div align="center">
 
-## ⟡ GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shahzad-dev20&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ## ⟡ Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzad-dev20&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=c4b5fd&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## ⟡ Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Shahzad-dev20/Shahzad-dev20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
